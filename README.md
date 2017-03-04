@@ -4,7 +4,9 @@
 ###真实外部API接口开发。
 借由这个项目也进一步的了解React的好处：完全组件化开发，virtual dom减少DOM操作提高浏览器的渲染性能，可以无缝衔接react-native写移动应用。唯一要吐槽的是写个项目要引用的包太多了，能不能统一打包啊！！
 
-![Mou icon](./11.png)
+<div align=center><img src="https://github.com/Tongwenfan/ReactNews/blob/master/2.png" width="30%"></div>
+<div align=center><img src="https://github.com/Tongwenfan/ReactNews/blob/master/3.png" width="30%"></div>
+<div align=center><img src="https://github.com/Tongwenfan/ReactNews/blob/master/11.png" width="30%"></div>
 
 ## 运行程序
 
