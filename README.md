@@ -16,7 +16,7 @@
 > $ git clone https://github.com/Tongwenfan/ReactNews.git
 ```
 
-分别进入ReactNews目录和server目录下安装依赖包
+分别进入ReactNews目录
 
 ```
 > $ npm install
